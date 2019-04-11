@@ -1,0 +1,17 @@
+.colum {
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: justify;
+}
+
+.ofer {
+  text-align: center;
+  background-color: #333333;
+  color: white;
+  padding: 5px;
+}
+
+footer {
+  display: block;
+  background-color: #333333;
+}
